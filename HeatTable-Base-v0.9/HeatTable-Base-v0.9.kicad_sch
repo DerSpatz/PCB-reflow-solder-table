@@ -7102,7 +7102,7 @@
     (uuid 7f2e95a6-c747-4b57-b6d7-1d71ac4dfaa0)
     (property "Reference" "USB1" (id 0) (at 83.82 21.59 0))
     (property "Value" "TYPE-C-31-M-17" (id 1) (at 83.82 24.13 0))
-    (property "Footprint" "User:USB_C_Receptacle_HRO_TYPE-C-31-M-17" (id 2) (at 87.63 44.45 0)
+    (property "Footprint" "User:USB_C_Receptacle_HRO_TYPE-C-31-M-17_Handsoldering" (id 2) (at 87.63 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 87.63 44.45 0)
@@ -9322,7 +9322,7 @@
       (reference "U7") (unit 1) (value "ITR8307-S17-TR8") (footprint "OptoDevice:Everlight_ITR1201SR10AR")
     )
     (path "/7f2e95a6-c747-4b57-b6d7-1d71ac4dfaa0"
-      (reference "USB1") (unit 1) (value "TYPE-C-31-M-17") (footprint "User:USB_C_Receptacle_HRO_TYPE-C-31-M-17")
+      (reference "USB1") (unit 1) (value "TYPE-C-31-M-17") (footprint "User:USB_C_Receptacle_HRO_TYPE-C-31-M-17_Handsoldering")
     )
   )
 )
